@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a9a8948ff18c81c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "34a3e88b9e11185f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -196,12 +180,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4cacdab452778575",
   "lastOpenFiles": [
-    "Welcome.md",
-    "CHƯƠNG 5-1 ĐỒNG BỘ TIẾN TRÌNH (PHẦN 1).md"
+    "Excalidraw/Drawing 2026-05-25 20.31.46.excalidraw.md",
+    "CHƯƠNG 5-1 ĐỒNG BỘ TIẾN TRÌNH (PHẦN 1).md",
+    "Excalidraw",
+    "Untitled.base",
+    "CHƯƠNG 5-2.md",
+    "Welcome.md"
   ]
 }

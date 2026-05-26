@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "CHƯƠNG 5-2. Q&A"
             }
+          },
+          {
+            "id": "adf69104ffd99b70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-26 13.09.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-26 13.09.45.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +197,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb0aa21828b1c3e1",
+  "active": "adf69104ffd99b70",
   "lastOpenFiles": [
-    "CHƯƠNG 5-2..md",
+    "Excalidraw/Drawing 2026-05-26 13.09.45.excalidraw.md",
     "CHƯƠNG 5-2. Q&A.md",
+    "Excalidraw/Drawing 2026-05-26 13.09.37.excalidraw.md",
+    "CHƯƠNG 5-2..md",
     "CHƯƠNG 5-1. Q&A.md",
     "2026-05-25.md",
     "CHƯƠNG 5-1. ĐỒNG BỘ TIẾN TRÌNH (PHẦN 1).md",

@@ -67,12 +67,14 @@
             "id": "7fadc50ec10900d0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-26 21.38.52.excalidraw.md"
+                "file": "CHƯƠNG 7. QUẢN LÍ BỘ NHỚ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-26 21.38.52.excalidraw"
+              "icon": "lucide-file",
+              "title": "CHƯƠNG 7. QUẢN LÍ BỘ NHỚ"
             }
           }
         ],
@@ -239,16 +241,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7fadc50ec10900d0",
+  "active": "a1a31b120ad1ca55",
   "lastOpenFiles": [
-    "2026-05-25.md",
+    "CHƯƠNG 7. Q&A.md",
+    "CHƯƠNG 7. QUẢN LÍ BỘ NHỚ.md",
     "Chương 6 - Q&A.md",
+    "Pasted Image 20260526223326_279.png",
     "Excalidraw/Drawing 2026-05-26 21.38.52.excalidraw.md",
+    "2026-05-25.md",
     "Excalidraw/Drawing 2026-05-26 13.09.45.excalidraw.md",
     "Excalidraw/Drawing 2026-05-26 13.09.37.excalidraw.md",
     "Excalidraw/Drawing 2026-05-25 20.47.57.excalidraw.md",
     "Excalidraw/Drawing 2026-05-25 20.45.44.excalidraw.md",
-    "Pasted Image 20260526223326_279.png",
     "CHƯƠNG 6 - DEADLOCK.md",
     "CHƯƠNG 5-2..md",
     "CHƯƠNG 5-1. Q&A.md",
